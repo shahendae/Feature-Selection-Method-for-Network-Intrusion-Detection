@@ -3,5 +3,5 @@ Machine learning now has a major contribution in cyber security attacks detectio
 We focuses on feature selection which is the most critical stage in data pre-processing. First, we implemented four different feature selection techniques: filtering, wrapper, entropy and granular computing and embedded techniques.
 
 Link for datasets: 
-Canadian Institute for Cybersecurity: https://www.unb.ca/cic/datasets/nsl.html \newLine
+Canadian Institute for Cybersecurity: https://www.unb.ca/cic/datasets/nsl.html \n
 CICIDS2017 Dataset: https://www.kaggle.com/cicdataset/cicids2017 
