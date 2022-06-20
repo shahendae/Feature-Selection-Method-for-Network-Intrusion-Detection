@@ -43,7 +43,7 @@ The following table summarizes the findings in the study, where we compare betwe
 ![NSL_KDD Dataset Experiment Results](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/nsl.PNG) <br />
 ![CICIDS2017 Dataset Experiment Results](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/cicid.PNG)
 
-The implementation of the NSL_KDD Dataset Experiment in `Feature_Selection_Binary_CICIDS2017.ipynb`
+The implementation of the NSL_KDD Dataset Experiment in `Feature_Selection_MultiClass.ipynb`  <br />
 The implementation of the CICIDS2017 Dataset Experiment in `Feature_Selection_Binary_CICIDS2017.ipynb`
 
 
