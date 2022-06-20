@@ -5,9 +5,14 @@ We focuses on feature selection which is the most critical stage in data pre-pro
 For our study, we selected two datasets corresponding to the particular application domain of intrusion detection.
 In the first part of our project, we split our experiments into a multiclass classification problem and a binary classification problem using the NSL_KDD and the CICIDS2017 datasets, respectively.
 
-## The datasets can be obtained through the following links: 
+## Datasets: 
 Canadian Institute for Cybersecurity: [link](https://www.unb.ca/cic/datasets/nsl.html) <br />
 CICIDS2017 Dataset: [link](https://www.kaggle.com/cicdataset/cicids2017)
+
+### The distrution of labels in the NSL_KDD and CICIDS datasets
+![NSL_KDD Dataset](images/nsl label.PNG)
+
+![CICIDS2017 Dataset](images/cicids label.PNG)
 
 ## Tested Models
 The models that were tested in this study are the following:
@@ -25,4 +30,17 @@ The models that were tested in this study are the following:
 - The Random Forest Classifier:
   - n_estimators=128
   - max_depth=None
+
+## Tested Feature Selection Methods
+The feature selection methods that were tested in this study are the following:
+- Lasso-RFE
+- Forward Feature Selection
+- Entropy Feature Selection
+- Genetic Algorithm (Multiclass classification only)
+
+## Results
+The following table summarizes the findings in the study, where we compare between the f1-scores obtained from using the different feature selection methods VS the proposed method.
+![NSL_KDD Dataset Experiment Results](images/nsl.PNG)
+![CICIDS2017 Dataset Experiment Results](images/cicids.PNG)
+
 
