@@ -10,7 +10,7 @@ Canadian Institute for Cybersecurity: [link](https://www.unb.ca/cic/datasets/nsl
 CICIDS2017 Dataset: [link](https://www.kaggle.com/cicdataset/cicids2017)
 
 ### The distrution of labels in the NSL_KDD and CICIDS datasets
-![NSL_KDD Dataset](images/nsl label.PNG)
+![images/nsl label.PNG](images/nsl label.PNG)
 
 ![CICIDS2017 Dataset](images/cicids label.PNG)
 
@@ -41,6 +41,6 @@ The feature selection methods that were tested in this study are the following:
 ## Results
 The following table summarizes the findings in the study, where we compare between the f1-scores obtained from using the different feature selection methods VS the proposed method.
 ![NSL_KDD Dataset Experiment Results](images/nsl.PNG)
-![CICIDS2017 Dataset Experiment Results](images/cicids.PNG)
+![CICIDS2017 Dataset Experiment Results]([images/cicids.PNG](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/cicid.PNG))
 
 
