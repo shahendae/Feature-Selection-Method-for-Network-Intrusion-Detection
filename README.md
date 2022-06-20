@@ -12,7 +12,7 @@ CICIDS2017 Dataset: [link](https://www.kaggle.com/cicdataset/cicids2017)
 ### The distrution of labels in the NSL_KDD and CICIDS datasets
 ![NSL_KDD Dataset](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/nsl label.PNG)
 
-![CICIDS2017 Dataset](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/nsl label.PNG)
+![CICIDS2017 Dataset](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/cicids label.PNG)
 
 ## Tested Models
 The models that were tested in this study are the following:
@@ -39,7 +39,7 @@ The feature selection methods that were tested in this study are the following:
 - Genetic Algorithm (Multiclass classification only)
 
 ## Results
-The following table summarizes the findings in the study, where we compare between the f1-scores obtained from using the different feature selection methods VS the proposed method.
+The following table summarizes the findings in the study, where we compare between the f1-scores obtained from using the different feature selection methods VS the proposed method. <br />
 ![NSL_KDD Dataset Experiment Results](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/nsl.PNG)
 ![CICIDS2017 Dataset Experiment Results](https://github.com/shahendae/Feature-Selection-Method-for-Network-Intrusion-Detection/blob/main/images/cicid.PNG)
 
